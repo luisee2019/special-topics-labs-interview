@@ -32,13 +32,16 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
-
+* _Luis_: Finishing up?  lol.  That's a relative term.  We still have 6 months left! All kidding aside, I decided to embark on this journey for a number of reasons.  The first is I have always been interesting in coding and took a few coding classes in college.  One other reason why I wanted to do this is so I 
+can switch to a more hands on development role at my current employer. 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
-
+* _Luis_: My favorite travel destination thus far is Italy! My wife and I went to Paris and Italy on our honeymoon.  We had a great time. On my
+travel bucket list I would like to visit Fiji, South Africa, Egypt, and see the Northern Lights in Iceland. 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
-
+* _Luis_: Beatles who? lol.  I am not a fan of the Beatles as a group but George Harrison is my favorite member.  I like several of his solo songs and think he was a great addition to the Traveling Wilburys.
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
-
+* _Luis_:  Yes! We have several pets.  We have a elephant, a horse, two dogs, several fish, and ducks.  They are all either of the rubber variety or stuffed animals.  My 2 year old daughter and I are still
+trying to convince my wife that we need a real dog.  She keeps bringing us animals of the stuffed variety! 
 
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
