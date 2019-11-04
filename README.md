@@ -14,7 +14,7 @@ There are multiple ways to make a pull request.  For open source development, ad
 1. Bob makes his modifications on his local copy (either on the default `master` branch or on a branch specific for this change).
 1. Bob [pushes his changes](https://help.github.com/en/articles/pushing-to-a-remote) to his fork of the repo.  At this point, Bob can log into GitHub and see his changes.  He is now prepared to create a pull request.
 1. Bob [creates a pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) that is sent _to the original repo_ that Nancy helps to maintain.  Note that this is different than what you will typically do.
-1. Nancy reviews Bob's change, providing feedback.  Frequently, Bob will have to [update his pull request](https://stackoverflow.com/questions/9790448/how-to-update-a-pull-request-from-forked-repo) with more commits to address Nancy's concerns.
+1. Nancy reviews Bob's change, providing feedback.  Frequently, Bob will have to [update hi s pull request](https://stackoverflow.com/questions/9790448/how-to-update-a-pull-request-from-forked-repo) with more commits to address Nancy's concerns.
 1. Finally, Nancy is happy with Bob's pull request and [merges](https://help.github.com/en/articles/merging-a-pull-request) it into the authoritative `next-best-thing` repository.  At this point she can decide whether she wants to keep Bob's full commit history, or "squash" it into a single commit.
 
 ## Getting Started:
@@ -32,11 +32,13 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
-* _Luis_: Finishing up?  lol.  That's a relative term.  We still have 6 months left! All kidding aside, I decided to embark on this journey for a number of reasons.  The first is I have always been interesting in coding and took a few coding classes in college.  One other reason why I wanted to do this is so I 
+* _Luis_: Finishing up?  lol.  That's a relative term.  We still have 6 months left! All kidding aside, I decided to embark on this journey for a number of reasons.  The first is I have always been interested in coding and took a few coding classes in college.  One other reason why I wanted to do this is so I 
 can switch to a more hands on development role at my current employer. 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
 * _Luis_: My favorite travel destination thus far is Italy! My wife and I went to Paris and Italy on our honeymoon.  We had a great time. On my
-travel bucket list I would like to visit Fiji, South Africa, Egypt, and see the Northern Lights in Iceland. 
+travel bucket list I would like to visit Fiji, South Africa, Egypt, and see the Northern Lights in Iceland. We went to several places in Italy.  We landed in Florence, Italy and were there for 4 days.  While there we went to San Gimignano, Lucca, Pisa, and explored the city of Florence.  
+After 4 days in Florence we went to Sorrento for 4 days and then spent 4 more days in Rome before heading back to the U.S.  A favorite aspect of Italy was the scenery and sites.  Everything was so beautiful. The food was very good there too!  
+It blew away the food we had in Paris by leaps and bounds. 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
 * _Luis_: Beatles who? lol.  I am not a fan of the Beatles as a group but George Harrison is my favorite member.  I like several of his solo songs and think he was a great addition to the Traveling Wilburys.
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
